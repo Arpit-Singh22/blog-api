@@ -71,7 +71,7 @@ Install dependencies
 ```Javascript
 npm install
 ```
-Stat the server
+Start the server
 ```Javascript
 npm run server
 ```
